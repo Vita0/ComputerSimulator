@@ -1,0 +1,16 @@
+ReadA 5
+WriteA n
+ReadA 1
+WriteA a
+WriteA i
+ReadBVar i
+ReadA 1
+SumAB 0
+WriteA i
+outB 0
+ReadAVar n
+ReadB -1
+SumAB 0
+WriteA n
+JumpA0toN -9
+end 0

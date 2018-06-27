@@ -1,0 +1,13 @@
+ReadA 5
+ReadB 1
+SumAB 0
+outA 0
+JumpA0toN 5
+SumAB 0
+WriteA y
+ReadA 1
+JumpA0toN 4
+ReadB 6
+SumAB 0
+WriteA z
+end 0
